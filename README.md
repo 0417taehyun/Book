@@ -27,5 +27,13 @@
         <td> <a href=""> 객체지향의 사실과 오해 관련 내용 정리 및 소스 코드 </a> </td>
         <td> 2022. 09. 22 - </td>
     </tr>
+    <tr>
+        <td> <a href="https://product.kyobobook.co.kr/detail/S000001033006"> CODE: 하드웨어와 소프트웨어에 숨어 있는 언어 </td>
+        <td> 찰스 펫졸드 </td>
+        <td> 김현규 </td>
+        <td> 인사이트 </td>
+        <td> <a href="./CODE"> CODE: 하드웨어와 소프트웨어에 숨어 있는 언어 내용 정리 및 소스 코드 </a> </td>
+        <td> 2022. 10. 01 - </td>
+    </tr>
 
 </table>
