@@ -19,11 +19,11 @@ _따라서 어떤 기술의 과거 형태를 살펴보면 오늘날의 기술과
     </th>
     <tr>
         <td> <a href="./01/README.md"> Chapter 1. 친한 친구와의 대화 </a> </td>
-        <td>  </td>
+        <td> 2022. 10. 01 </td>
     </tr>
     <tr>
-        <td> <a href=""> Chapter 2. 부호와 조합 </a> </td>
-        <td>  </td>
+        <td> <a href="./02/README.md"> Chapter 2. 부호와 조합 </a> </td>
+        <td> 2022. 10. 01 </td>
     </tr>
     <tr>
         <td> <a href=""> Chapter 3. 점자와 이진 부호 </a> </td>
