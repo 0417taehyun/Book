@@ -26,8 +26,8 @@ _따라서 어떤 기술의 과거 형태를 살펴보면 오늘날의 기술과
         <td> 2022. 10. 01 </td>
     </tr>
     <tr>
-        <td> <a href=""> Chapter 3. 점자와 이진 부호 </a> </td>
-        <td>  </td>
+        <td> <a href="./03/README.md"> Chapter 3. 점자와 이진 부호 </a> </td>
+        <td> 2022. 10. 02 </td>
     </tr>
     <tr>
         <td> <a href=""> Chapter 4. 전등을 분해해 봅시다 </a> </td>
