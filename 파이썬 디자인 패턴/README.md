@@ -1,6 +1,6 @@
 # 파이썬 디자인 패턴
 
-<img src="./images/00/main.jpeg" />
+<img src="./Images/00/main.jpeg" />
 
 ## 학습 목적
 

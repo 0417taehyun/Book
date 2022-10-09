@@ -1,6 +1,6 @@
 # 객체지향의 사실과 오해
 
-<img src="./images/00/main.jpeg" />
+<img src="./Images/00/main.jpeg" />
 
 ## 학습 목적
 
