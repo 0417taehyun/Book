@@ -13,10 +13,10 @@ _따라서 어떤 기술의 과거 형태를 살펴보면 오늘날의 기술과
 ## 학습 내용
 
 <table>
-    <th> 
-        <td> 제목 </td>
-        <td> 일자 </td>
-    </th>
+    <tr> 
+        <th> 제목 </th>
+        <th> 일자 </th>
+    </tr>
     <tr>
         <td> <a href="./01/README.md"> Chapter 1. 친한 친구와의 대화 </a> </td>
         <td> 2022. 10. 01 </td>
@@ -30,11 +30,11 @@ _따라서 어떤 기술의 과거 형태를 살펴보면 오늘날의 기술과
         <td> 2022. 10. 02 </td>
     </tr>
     <tr>
-        <td> <a href=""> Chapter 4. 전등을 분해해 봅시다 </a> </td>
-        <td>  </td>
+        <td> <a href="./04/README.md"> Chapter 4. 전등을 분해해 봅시다 </a> </td>
+        <td> 2022. 10. 02 </td>
     </tr>
     <tr>
-        <td> <a href=""> Chapter 5. 다른 방법을 ㅊ팢아봅시다 </a> </td>
+        <td> <a href=""> Chapter 5. 다른 방법을 찾아봅시다 </a> </td>
         <td>  </td>
     </tr>
     <tr>
